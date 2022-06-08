@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #161616;
+}
+p {
+  font-family: 'Segoe UI';
+  font-weight: 400;
+  font-size: 40px;
+  color: #fff;
+}
